@@ -26,3 +26,14 @@ Contact me:
     <a href="https://github.com/kargamant/my_labs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=kargamant&repo=my_labs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="my_labs"></a>
   </p>
 </details>
+
+<details open> 
+  <summary><h2>Hackathons🤖🏆 </h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/qwamm/MDLIV_Window_of_knowledge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=MDLIV_Window_of_knowledge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MDLIV_Window_of_knowledge"></a>
+    <a href="https://github.com/qwamm/MDLIV_nuclear_hackaton"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=MDLIV_nuclear_hackaton&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MDLIV_nuclear_hackaton"></a>
+    <a href="https://github.com/Ksenob1te/mdliv-nuclearhack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ksenob1te&repo=mdliv-nuclearhack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mdliv-nuclearhack"></a>
+    <a href="https://github.com/kargamant/TLS-emb"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kargamant&repo=TLS-emb&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TLS-emb"></a>
+  </p>
+</details>
