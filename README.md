@@ -9,7 +9,7 @@ Contact me:
 <p align="center">
   <a href="https://t.me/firelumpa"><img width="90px" alt="telegram" title="telegram" src="https://custom-icon-badges.demolab.com/badge/telegram-123.svg?logo=telegram-123&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="firexholms@gmail.com"><img width="57px" alt="mail" title="mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/></a>
+  <a href="mailto:firexholms@gmail.com"><img width="57px" alt="mail" title="mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
