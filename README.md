@@ -1,10 +1,10 @@
 # kargamant  
 ```The background of kargamant```  
   
-📚Education: MEPHI student in CS  
-🛠Skills: C++, C, Python  
-💻Areas of interest: low-level programming, desktop applications, gui, ML, backend  
-💼Job status: C++ junior dev  
+📚Education: Bachelor in CS at MEPHI  
+🛠Skills: SystemVerilog, RTL, FPGA, C++, C, Python, Linux  
+💻Areas of interest: low-level programming, operating systems, digital circuit design, Linux   
+💼Job status: juinor RTL Engineer at SBER, ex-MCST
   
 Contact me:  
 <p align="left">
