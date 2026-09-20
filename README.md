@@ -1,5 +1,5 @@
 # kargamant  
-```The background of kargamant```  
+```The background of IT rockstar⭐```  
   
 📚Education: Bachelor in CS at MEPHI  
 🛠Skills: SystemVerilog, RTL, FPGA, C++, C, Python, Linux  
@@ -13,6 +13,13 @@ Contact me:
   <a href="mailto:firexholms@gmail.com"><img width="57px" alt="mail" title="mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+<details open> 
+  <summary><h2>Main project now🛠 </h2></summary>
+  <p align="left">
+    <a href="https://github.com/kargamant/pvo_scr1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kargamant&repo=pvo_scr1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pvo_scr1"></a>
+  </p>
+</details>
 
 <details open> 
   <summary><h2>My study projects📚 </h2></summary>
