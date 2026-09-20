@@ -3,7 +3,7 @@
   
 📚Education: Bachelor in CS at MEPHI  
 🛠Skills: SystemVerilog, RTL, FPGA, C++, C, Python, Linux  
-💻Areas of interest: low-level programming, operating systems, digital circuit design, Linux   
+💻Areas of interest: low-level programming, operating systems, digital circuit design, Linux, embedded   
 💼Job status: juinor RTL Engineer at SBER, ex-MCST
   
 Contact me:  
